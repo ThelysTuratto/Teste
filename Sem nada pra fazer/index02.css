@@ -1,0 +1,12 @@
+body {
+        background-image: url('image\ copy\ 3.png'); 
+        background-position: top;
+        background-size: cover;
+    
+}
+
+h1 {
+    color: blue;
+    margin-top: 20%;
+    margin-left: 70px;
+}
